@@ -28,7 +28,7 @@ To play the game, follow these steps:
 1. Clone the repository or download the source code:
    ```bash
    git clone https://yourrepositorylink.com
-   cd hamiltonian_cycle_game
+   cd HamiltonianPath
    cd src
     ```
 2. Run the game:
