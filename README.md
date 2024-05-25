@@ -15,10 +15,7 @@ The Hamiltonian Cycle Game is an interactive puzzle game built with Pygame. The 
 ## Installation
 To run the Hamiltonian Cycle Game, you need to have Python and Pygame installed on your computer. Follow these steps to get started:
 
-1. **Install Python**
-   - Download and install Python from [python.org](https://www.python.org/downloads/).
-
-2. **Install Pygame**
+1. **Install Pygame**
    - Open your terminal or command prompt.
    - Install Pygame using pip:
      ```bash
@@ -32,6 +29,7 @@ To play the game, follow these steps:
    ```bash
    git clone https://yourrepositorylink.com
    cd hamiltonian_cycle_game
+   cd src
     ```
 2. Run the game:
 
