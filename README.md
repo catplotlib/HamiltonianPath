@@ -29,7 +29,7 @@ To play the game, follow these steps:
 
 1. Clone the repository or download the source code:
    ```bash
-   git clone https://yourrepositorylink.com
+   git clone https://github.com/catplotlib/HamiltonianPath
    cd HamiltonianPath
    cd src
     ```
